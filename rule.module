@@ -1,6 +1,12 @@
 #!name=Rule补完
+#!desc=Shadowrocket黑名单规则补完
 [Rule]
 DOMAIN-SUFFIX,t-mobile.com,PROXY
 DOMAIN-SUFFIX,shuzijumin.com,PROXY
 DOMAIN-KEYWORD,naixi.net,PROXY
 DOMAIN-KEYWORD,tokyotosho.info,PROXY
+GEOIP,JP,PROXY,no-resolve
+GEOIP,CA,PROXY,no-resolve
+GEOIP,GB,PROXY,no-resolve
+GEOIP,DE,PROXY,no-resolve
+GEOIP,RU,PROXY,no-resolve
