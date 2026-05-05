@@ -1,4 +1,4 @@
-#!name=Rule
+#!name=Rule补完
 [Rule]
 DOMAIN-SUFFIX,t-mobile.com,PROXY
 DOMAIN-SUFFIX,shuzijumin.com,PROXY
