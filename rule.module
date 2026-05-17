@@ -1,6 +1,8 @@
 #!name=Rule补完
 #!desc=Shadowrocket黑名单规则补完
 [Rule]
+
+DOMAIN-SUFFIX,passwall2.org,PROXY,no-resolve
 DOMAIN-SUFFIX,t-mobile.com,PROXY,no-resolve
 DOMAIN-SUFFIX,shuzijumin.com,PROXY
 DOMAIN-SUFFIX,naixi.net,PROXY
