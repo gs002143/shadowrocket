@@ -2,6 +2,10 @@
 #!desc=Shadowrocket黑名单规则补完
 [Rule]
 
+DOMAIN-SUFFIX,za.group,DIRECT
+DOMAIN-SUFFIX,zabank.com,DIRECT
+DOMAIN-SUFFIX,zhongan.com,DIRECT
+
 DOMAIN-SUFFIX,passwall2.org,PROXY,no-resolve
 DOMAIN-SUFFIX,t-mobile.com,PROXY,no-resolve
 DOMAIN-SUFFIX,shuzijumin.com,PROXY
