@@ -2,6 +2,10 @@
 #!desc=Shadowrocket黑名单规则补完
 [Rule]
 
+DOMAIN-SUFFIX,schwab.com,PROXY
+DOMAIN-SUFFIX,schwabclient.com,PROXY
+DOMAIN-SUFFIX,thinkorswim.com,PROXY
+DOMAIN-SUFFIX,tdameritrade.com,PROXY
 DOMAIN-SUFFIX,za.group,DIRECT
 DOMAIN-SUFFIX,zabank.com,DIRECT
 DOMAIN-SUFFIX,zhongan.com,DIRECT
