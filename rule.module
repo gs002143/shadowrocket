@@ -1,7 +1,8 @@
 #!name=Rule补完
 #!desc=Shadowrocket黑名单规则补完
 [Rule]
-
+DOMAIN-SUFFIX,push.apple.com,PROXY
+PROCESS-NAME,apsd,PROXY
 DOMAIN-SUFFIX,schwab.com,PROXY
 DOMAIN-SUFFIX,schwabclient.com,PROXY
 DOMAIN-SUFFIX,thinkorswim.com,PROXY
@@ -23,4 +24,3 @@ DOMAIN-SUFFIX,aimtell.com,PROXY
 DOMAIN-SUFFIX,clarity.ms,PROXY
 DOMAIN-SUFFIX,aimtell.io,PROXY
 DOMAIN-SUFFIX,anirena.com,PROXY
-DOMAIN-SUFFIX,push.apple.com,PROXY
