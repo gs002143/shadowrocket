@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,tdameritrade.com,PROXY
 DOMAIN-SUFFIX,za.group,DIRECT
 DOMAIN-SUFFIX,zabank.com,DIRECT
 DOMAIN-SUFFIX,zhongan.com,DIRECT
-
+DOMAIN-SUFFIX,claude.ai,PROXY
 DOMAIN-SUFFIX,passwall2.org,PROXY,no-resolve
 DOMAIN-SUFFIX,t-mobile.com,PROXY,no-resolve
 DOMAIN-SUFFIX,shuzijumin.com,PROXY
