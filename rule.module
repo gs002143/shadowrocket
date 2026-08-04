@@ -1,6 +1,18 @@
 #!name=Rule补完
 #!desc=Shadowrocket黑名单规则补完
 [Rule]
+# Ether.fi 规则
+DOMAIN-SUFFIX,ether.fi,PROXY
+DOMAIN-SUFFIX,etherfi.com,PROXY
+DOMAIN-SUFFIX,etherfi.io,PROXY
+DOMAIN-KEYWORD,etherfi,PROXY
+DOMAIN-KEYWORD,ether-fi,PROXY
+
+# Web3 / WalletConnect 钱包连接
+DOMAIN-SUFFIX,walletconnect.com,PROXY
+DOMAIN-SUFFIX,walletconnect.org,PROXY
+DOMAIN-SUFFIX,reown.com,PROXY
+
 DOMAIN-SUFFIX,push.apple.com,PROXY
 PROCESS-NAME,apsd,PROXY
 DOMAIN-SUFFIX,schwab.com,PROXY
