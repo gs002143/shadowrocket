@@ -12,7 +12,7 @@ DOMAIN-KEYWORD,ether-fi,PROXY
 DOMAIN-SUFFIX,walletconnect.com,PROXY
 DOMAIN-SUFFIX,walletconnect.org,PROXY
 DOMAIN-SUFFIX,reown.com,PROXY
-
+DOMAIN-SUFFIX,onlyfans.com,PROXY
 DOMAIN-SUFFIX,push.apple.com,PROXY
 PROCESS-NAME,apsd,PROXY
 DOMAIN-SUFFIX,schwab.com,PROXY
