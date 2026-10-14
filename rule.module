@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,etherfi,PROXY
 DOMAIN-KEYWORD,ether-fi,PROXY
 
 DOMAIN-KEYWORD,muse.ai,PROXY
+DOMAIN-KEYWORD,meta.ai,PROXY
 
 # Web3 / WalletConnect 钱包连接
 DOMAIN-SUFFIX,walletconnect.com,PROXY
