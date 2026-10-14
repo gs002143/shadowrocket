@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,etherfi.io,PROXY
 DOMAIN-KEYWORD,etherfi,PROXY
 DOMAIN-KEYWORD,ether-fi,PROXY
 
+DOMAIN-KEYWORD,muse.ai,PROXY
+
 # Web3 / WalletConnect 钱包连接
 DOMAIN-SUFFIX,walletconnect.com,PROXY
 DOMAIN-SUFFIX,walletconnect.org,PROXY
